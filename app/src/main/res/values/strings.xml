@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daily forecast</string>
+    <string name="cities_file_name">cities.json</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="temp">Temp:</string>
+    <string name="sea_level">Sea level:</string>
+    <string name="weather_title">Weather name:</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="wind_degree">Wind degree:</string>
+    <string name="weather_description">Weather description:</string>
+    <string name="city_name">City:</string>
+    <string name="city_sun_sit">SunSit:</string>
+    <string name="city_sun_rise">SunRise:</string>
+    <string name="not_accurate_data">it’s not accurate data</string>
+
+</resources>
